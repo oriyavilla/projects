@@ -1,0 +1,1 @@
+/usr/local/mysql/bin/mysql -u root -p < retrieve_columbia.sql | sed 's/\t/,/g' > columbia.csv
