@@ -3,7 +3,7 @@ Team members: Oriya Villarreal, George K. Darkwah
 
 
 ## Summary
-This study investigates the impact of dams on river temperature along the Columbia River, using historical satellite and climate data. The ultimate goal is to understand the complexity of sustainable dam operations that protect aquatic life while maintaining their societal advantages. This project forms part of the initial assessment and a precursor to the ultimate goal.
+This study investigates the impact of dams on river temperature along the Columbia River, using historical satellite and climate data. The ultimate goal is to understand the complexity of sustainable dam operations that protect aquatic life while maintaining their societal advantages. 
 
 
 ## Background
