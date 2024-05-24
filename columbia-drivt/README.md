@@ -206,11 +206,11 @@ We divided the Upper Columbia into two sections, the section from Fairmont to Ki
 
 The longitudinal profile showed different long-term trends in the various sections and in different seasons. Generally, the upstream section of the Upper Columbia starts off with high temperatures because of the hot springs at the headwater of the Columbia River. This hot water is cooled down by cold water from the Kootenay mountain range before the river makes a turn at Kinbasket Lake.
 
-![Longitudinal Temperature Profile along the Columbia River - All months](Results/02.1-LongProfileAllMonths.png "Fig. 4 - Longitudinal Temparture Profile along the Columbia River - All months")
-![Longitudinal Temperature Profile along the Columbia River - Spring Months](Results/02.2-LongProfileSpring.png "Fig. 5 - Longitudinal Temparture Profile along the Columbia River - Spring")
-![Longitudinal Temperature Profile along the Columbia River - Summer months](Results/02.3-LongProfileSummer.png "Fig. 6 - Longitudinal Temparture Profile along the Columbia River - Summer months")
-![Longitudinal Temperature Profile along the Columbia River - Fall months](Results/02.4-LongProfileFall.png "Fig. 7 - Longitudinal Temparture Profile along the Columbia River - Fall months")
-![Longitudinal Temperature Profile along the Columbia River - Winter months](Results/02.5-LongProfileWinter.png "Fig. 8 - Longitudinal Temparture Profile along the Columbia River - Winter months")
+![Longitudinal Temperature Profile along the Columbia River - All months](Results/02.1-LongProfileAllMonths.png "Fig. 4 - Longitudinal Temperature Profile along the Columbia River - All months")
+![Longitudinal Temperature Profile along the Columbia River - Spring Months](Results/02.2-LongProfileSpring.png "Fig. 5 - Longitudinal Temperature Profile along the Columbia River - Spring")
+![Longitudinal Temperature Profile along the Columbia River - Summer months](Results/02.3-LongProfileSummer.png "Fig. 6 - Longitudinal Temperature Profile along the Columbia River - Summer months")
+![Longitudinal Temperature Profile along the Columbia River - Fall months](Results/02.4-LongProfileFall.png "Fig. 7 - Longitudinal Temperature Profile along the Columbia River - Fall months")
+![Longitudinal Temperature Profile along the Columbia River - Winter months](Results/02.5-LongProfileWinter.png "Fig. 8 - Longitudinal Temperature Profile along the Columbia River - Winter months")
 
 We observed a general downstream heating after Kinbasket Lake, especially in the winter and spring months. However, in the summer, there was rather low to no downstream heating in the middle Columbia. This is likely due to the interactions between tributaries and dam operations. We noticed an abrupt downstream cooling at the Grand Coulee Dam. This is likely due to the effect of thermal stratification and the discharge of cold water from the bottom of the dam. After the Bonneville Dam, the river either heated up or cooled down to match the temperature of the Pacific Ocean at the mouth, depending on the season.
 
